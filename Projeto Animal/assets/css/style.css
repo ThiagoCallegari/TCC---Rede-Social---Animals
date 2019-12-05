@@ -1,0 +1,46 @@
+#corpo {
+    background-color: #fefef4;
+}
+
+.titulo {
+    background-color: fefef4;
+    color: #39829b;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 600%;
+    margin-top: 2%;
+    text-shadow: 2px 2px 5px #758582;
+}
+
+.nav-item active {
+    color: white;
+}
+
+.sobre {
+    text-align: center;
+    font-size: 100%;
+    margin-top: 2%;
+}
+
+#card {
+    margin-top: 2%;
+}
+
+#foot {
+    text-align: center;
+    background-color: #c8b1aa;
+    margin-top: 3%;
+    font-size: 90%;
+    height: 0.5%;
+}
+
+p {
+    font-size: 120%;
+    font-family: cursive;
+}
+
+.textApr {
+    font-size: 80%;
+    text-align: start;
+}
+
